@@ -1,5 +1,7 @@
 # WebMonetization.org
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Melon-Tropics/webmonetization.org.svg)](https://greenkeeper.io/)
+
 [View live site](https://webmonetization.org)
 
 This repo is the home of the proposed Web Monetization standard.
